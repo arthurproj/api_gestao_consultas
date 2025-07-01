@@ -38,9 +38,7 @@ Este projeto é uma API MVC para gestão de consultas médicas.
 6. Acesse a API:
    - A rota principal estará disponível em: `http://localhost:3000/api/`.
    - A documentação interativa (Swagger) estará disponível em: `http://localhost:3000/api-docs/`.
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
-
 
 ### **Testar a Aplicação**
-   - Acesse `http://localhost:3000/api/` para ver a mensagem de boas-vindas.
+   - Acesse `http://localhost:3000/api/` para ver dashboard inicial.
    - Acesse `http://localhost:3000/api-docs/` para visualizar a documentação Swagger.
